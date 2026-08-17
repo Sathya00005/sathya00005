@@ -1,28 +1,156 @@
-<h1 align="center">Hi 👋, I'm Sathya Narayanan K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey, I'm Sathya Narayanan K
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathya00005&label=Profile%20views&color=0e75b6&style=flat" alt="sathya00005" /> </p>
+### 🚀 Full-Stack Developer · AI Engineer · Building Quanverse
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathya00005" alt="sathya00005" /></a> </p>
+I'm a developer from India who loves turning ideas into **real, scalable products**.
 
-- 🔭 I’m currently working on [Quanverse](https://quanverse.tech/)
+Currently, I'm building **[Quanverse](https://quanverse.tech/)** — an AI-powered examination platform designed to make assessment creation, evaluation, and academic workflows smarter.
 
-- 🌱 I’m currently learning **AI/LLM engineering, scalable system design, distributed systems, and advanced React/TypeScript development.**
+> **Build fast. Learn constantly. Ship things that matter.**
 
-- 🤝 I’m looking for help with **Building scalable AI applications, LLM-powered workflows, and high-performance systems**
+---
 
-- 💬 Ask me about **React, TypeScript, FastAPI, MongoDB, AI/LLM integration, NVIDIA AI, and building products from 0 → 1.**
+## 🚀 What I'm Building
 
-- 📫 How to reach me **sathya.nk2713@gmail.com**
+### 🧠 Quanverse
 
-- ⚡ Fun fact **I can spend hours debugging one tiny bug… and then celebrate when it turns out to be a single missing character.**
+**AI-powered examination infrastructure for modern education.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sathya-narayanan-k-4922ab396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathya-narayanan-k-4922ab396" height="30" width="40" /></a>
+Quanverse brings together:
+
+* 🤖 AI-powered question & paper generation
+* 📚 Curriculum and question-bank curation
+* 📝 Automated answer & rubric generation
+* ✍️ AI-powered student evaluation
+* 📊 Intelligent academic insights
+* 🔍 OCR & document understanding
+* ⚡ Scalable asynchronous AI workflows
+
+🌐 **[quanverse.tech](https://quanverse.tech/)**
+
+---
+
+## 🛠️ Tech I Work With
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend & Data
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathya00005&show_icons=true&locale=en" alt="sathya00005" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis" />
+</p>
+
+### AI / Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,git,github" />
+</p>
+
+**AI & LLM:** NVIDIA AI · Nemotron · LangChain · OCR · Vision AI · Embeddings
+
+**Architecture:** REST APIs · Async Processing · Redis Queues · MongoDB · Docker · Nginx
+
+---
+
+## 💡 What I'm Interested In
+
+```text
+AI Engineering
+    ↓
+LLM Applications
+    ↓
+Scalable Backend Systems
+    ↓
+Developer Tools
+    ↓
+EdTech
+    ↓
+Building Products from 0 → 1
+```
+
+I'm particularly interested in the intersection of **AI + software engineering + education**.
+
+---
+
+## 🌱 Currently Learning
+
+* 🧠 Advanced LLM application architecture
+* ⚡ High-concurrency AI systems
+* 🏗️ Distributed & scalable backend architecture
+* 🔬 AI evaluation and reliability
+* 🎨 Advanced React & TypeScript
+* ☁️ Production infrastructure & DevOps
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 What I Like Building
+
+```text
+Ideas
+  ↓
+Prototype
+  ↓
+Engineering
+  ↓
+AI Integration
+  ↓
+Production
+  ↓
+Users
+  ↓
+Iterate 🚀
+```
+
+I enjoy taking products from an idea on a whiteboard to something people can actually use.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in meeting people working on:
+
+**AI · SaaS · EdTech · Developer Tools · Startups · Open Source**
+
+📫 **Reach me:** [LinkedIn](YOUR_LINKEDIN_URL)
+
+🌐 **Website:** [quanverse.tech](https://quanverse.tech/)
+
+💻 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+## ⚡ A Little About Me
+
+* 🇮🇳 Building from India
+* 💻 I enjoy both frontend and backend engineering
+* 🤖 Currently deep into AI-powered applications
+* 🚀 Building Quanverse from the ground up
+* 🧩 I enjoy solving problems that initially look impossible
+* ☕ Powered by curiosity, code, and probably too much debugging
+
+---
+
+<p align="center">
+
+### 🚀 Build something meaningful.
+
+**Thanks for stopping by! ⭐**
+
+</p>
