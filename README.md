@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm **Sathya Narayanan K**
 
-### **Full-Stack Developer • AI Engineer • Product Builder**
+### 💻 Full-Stack Developer · 🤖 AI Engineer · 🚀 Product Builder
 
-I build **production-ready software, AI-powered applications, and scalable systems**.
+**I build production-ready software, AI-powered applications, and scalable systems.**
 
-🇮🇳 Based in India · 🧠 AI & LLMs · ⚡ Full-Stack · 🏗️ System Design
+🇮🇳 India · 🧠 AI & LLMs · ⚡ Full-Stack · 🏗️ Backend & Systems
 
 <br/>
 
@@ -14,15 +14,11 @@ I build **production-ready software, AI-powered applications, and scalable syste
 <img src="https://img.shields.io/badge/GitHub-Sathya00005-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sathya-narayanan-k-4922ab396/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://quanverse.tech/">
-<img src="https://img.shields.io/badge/Portfolio-Quanverse-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Quanverse-Project-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sathya00005&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -36,20 +32,21 @@ I work across the entire development lifecycle:
 
 **Idea → Architecture → Development → AI Integration → Testing → Deployment → Real Users**
 
-I care about more than making something work. I like understanding **why it works, how it scales, and how it can be made better.**
+I enjoy more than just writing code. I like understanding the **problem behind the product**, designing the right solution, and making systems reliable, maintainable, and scalable.
 
-### What I bring to a team
+### What I bring
 
-* 🧠 **Strong problem-solving mindset**
-* ⚡ **Full-stack development experience**
-* 🤖 **Hands-on AI / LLM engineering**
-* 🏗️ **Backend & system architecture**
-* 🚀 **Production deployment experience**
-* 🔍 **Debugging & performance optimization**
-* 📚 **Fast learner who enjoys unfamiliar problems**
-* 🤝 **Product-minded engineering**
+* 🧠 Strong problem-solving mindset
+* 💻 Full-stack development experience
+* 🤖 Hands-on AI & LLM engineering
+* ⚙️ Backend and API development
+* 🏗️ System design and architecture
+* 🚀 Production deployment experience
+* 🔍 Debugging and performance optimization
+* 📚 Fast learning and curiosity
+* 🎯 Product-focused engineering
 
-> **I learn by building — and I build with the intention of shipping.**
+> **I learn by building, and I build with the intention of shipping.**
 
 ---
 
@@ -65,7 +62,7 @@ I care about more than making something work. I like understanding **why it work
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis" />
 
-### DevOps & Tools
+### Infrastructure & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github" />
 
@@ -85,155 +82,89 @@ I care about more than making something work. I like understanding **why it work
 
 ---
 
-# 🚀 What I Can Build
+# 🧠 What I Like Working On
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🎨
-
-### Frontend
-
-Modern, responsive interfaces with React & TypeScript.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-### Backend
-
-Fast, scalable APIs and asynchronous services.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-### AI
-
-LLM-powered applications and intelligent workflows.
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-### Production
-
-Dockerized systems, Linux servers & deployment.
-
-</td>
-</tr>
-</table>
+| 🤖 AI Engineering | ⚙️ Software Engineering | 🚀 Product Engineering |
+| :---------------: | :---------------------: | :--------------------: |
+|  LLM Applications |   Backend Architecture  |     0 → 1 Products     |
+|   AI Automation   |   Distributed Systems   |          SaaS          |
+|   AI Evaluation   |        API Design       |        Startups        |
+|    OCR / Vision   |      Async Systems      |     Developer Tools    |
 
 </div>
 
----
+### Especially interested in
 
-# 🧠 Areas I Enjoy
-
-```text
-AI / LLM Engineering
-        │
-        ├── LLM Applications
-        ├── AI Agents & Workflows
-        ├── Document Intelligence
-        ├── OCR / Vision
-        └── AI Evaluation
-
-Software Engineering
-        │
-        ├── Backend Architecture
-        ├── Distributed Systems
-        ├── Async Processing
-        ├── API Design
-        └── Performance
-
-Product Engineering
-        │
-        ├── 0 → 1 Products
-        ├── SaaS
-        ├── Developer Tools
-        └── EdTech
-```
+**AI × Software Engineering × Real-World Problems**
 
 ---
 
-# 💼 Experience Through Building
-
-I believe projects are one of the best ways to demonstrate engineering ability.
+# 💼 Featured Project
 
 ## 🧠 Quanverse
 
-### AI-powered examination platform
+**AI-powered examination platform**
 
-**React · TypeScript · FastAPI · Python · MongoDB · Redis · Docker · NVIDIA AI**
+[Quanverse](https://quanverse.tech/) is one of my current projects, where I'm combining full-stack engineering with AI to build an end-to-end examination platform.
 
-I'm building Quanverse as an end-to-end platform for AI-assisted examination workflows.
+### Areas I've worked on
 
-The project involves:
+* 🤖 AI question & paper generation
+* 📚 Curriculum & question-bank curation
+* 📝 AI key-answer generation
+* 📋 Rubric generation
+* ✍️ Automated student evaluation
+* 🔍 OCR & document understanding
+* 👁️ Vision AI
+* ⚡ Asynchronous AI processing
+* 🗄️ Database & backend architecture
+* 🐳 Dockerized production deployment
 
-* AI-powered question and paper generation
-* Curriculum and document understanding
-* Question-bank curation
-* AI key-answer generation
-* Rubric generation
-* Automated student evaluation
-* OCR and Vision AI
-* Asynchronous AI processing
-* Production deployment
-* Scalable backend architecture
+**Tech:** React · TypeScript · FastAPI · Python · MongoDB · Redis · Docker · Nginx · NVIDIA AI
 
-🌐 **[Explore Quanverse →](https://quanverse.tech/)**
+🌐 **[View Quanverse →](https://quanverse.tech/)**
 
 ---
 
-# 🏗️ How I Approach Engineering
+# 🚀 How I Build
 
 <div align="center">
 
-### 01 — Understand
+```text
+              💡 IDEA
+                 │
+                 ▼
+          🔎 UNDERSTAND
+                 │
+                 ▼
+             🏗️ DESIGN
+                 │
+                 ▼
+             ⚡ BUILD
+                 │
+                 ▼
+             🧪 TEST
+                 │
+                 ▼
+             🚀 SHIP
+                 │
+                 ▼
+             👥 USERS
+                 │
+                 ▼
+            📊 LEARN
+                 │
+                 ▼
+            🔁 IMPROVE
+```
 
-**What problem are we actually solving?**
-
-↓
-
-### 02 — Design
-
-**What is the simplest architecture that can work?**
-
-↓
-
-### 03 — Build
-
-**Turn the design into working software.**
-
-↓
-
-### 04 — Validate
-
-**Test it against real-world scenarios.**
-
-↓
-
-### 05 — Ship
-
-**Get it into the hands of users.**
-
-↓
-
-### 06 — Improve
-
-**Measure → Learn → Iterate**
+### **Build → Ship → Learn → Improve**
 
 </div>
+
+I believe the best way to become a better engineer is to **build real things, encounter real problems, and solve them.**
 
 ---
 
@@ -253,27 +184,25 @@ I'm continuously expanding my engineering depth in:
 
 # 🧪 How I Learn
 
-I don't like learning technologies only through tutorials.
-
-My preferred approach:
+I prefer learning by building rather than simply following tutorials.
 
 ```text
-Learn the concept
-       ↓
-Build something with it
-       ↓
-Break it
-       ↓
-Understand why
-       ↓
-Fix it
-       ↓
-Deploy it
-       ↓
-Learn something new
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Understand
+  ↓
+Fix
+  ↓
+Deploy
+  ↓
+Improve
 ```
 
-That's how most of my GitHub activity is created.
+This approach has helped me learn technologies by actually using them in projects and production systems.
 
 ---
 
@@ -281,15 +210,19 @@ That's how most of my GitHub activity is created.
 
 <div align="center">
 
-|    | Principle                                 |
-| -- | ----------------------------------------- |
-| 🎯 | **Solve the problem, not just the task.** |
-| 🧠 | **Understand before optimizing.**         |
-| ⚡  | **Prefer simple systems that work.**      |
-| 🤖 | **Automate repetitive work.**             |
-| 🧪 | **Test assumptions with reality.**        |
-| 🚀 | **Ship early, improve continuously.**     |
-| 📈 | **Build with growth in mind.**            |
+### 🎯 Solve the problem, not just the task.
+
+### 🧠 Understand before optimizing.
+
+### ⚡ Prefer simple systems that work.
+
+### 🤖 Automate repetitive work.
+
+### 🧪 Test assumptions with reality.
+
+### 🚀 Ship early and improve continuously.
+
+### 📈 Build with the future in mind.
 
 </div>
 
@@ -305,19 +238,19 @@ Building practical AI and LLM-powered products.
 
 ### 💻 Full-Stack Development
 
-Working across frontend, backend, databases and infrastructure.
+Working across frontend, backend, databases, and infrastructure.
 
 ### 🏗️ Systems & Architecture
 
-Designing reliable and scalable software.
+Designing reliable, maintainable, and scalable software.
 
 ### 🚀 Product Engineering
 
-Working with a team that cares about shipping and real users.
+Working with teams that care about shipping and real users.
 
 ### 🧠 Challenging Problems
 
-The kind of problems where the solution isn't obvious yet.
+Problems where the solution isn't obvious yet.
 
 ---
 
@@ -329,22 +262,20 @@ The kind of problems where the solution isn't obvious yet.
 * 🚀 I prefer building over just consuming
 * 📚 Always learning something new
 * 🤖 Currently deep into AI engineering
-* ☕ "I'll fix one small bug" has never been one small bug
+* ☕ "I'll fix one small bug" rarely means one small bug
 * 😄 I genuinely enjoy debugging
 
 ---
 
-# 🤝 Let's Talk
+# 🤝 Let's Connect
 
-If you're building something interesting in:
+I'm always interested in connecting with people passionate about:
 
-**AI · SaaS · Startups · EdTech · Developer Tools · Software Engineering**
-
-I'd love to connect.
-
-<div align="center">
+**AI · Software Engineering · Startups · SaaS · EdTech · Open Source · Developer Tools**
 
 <br/>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/sathya-narayanan-k-4922ab396/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -355,7 +286,7 @@ I'd love to connect.
 </a>
 
 <a href="https://quanverse.tech/">
-<img src="https://img.shields.io/badge/Quanverse-See%20what%20I'm%20building-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Quanverse-View%20the%20project-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/>
