@@ -2,35 +2,48 @@
 
 ### 🚀 Full-Stack Developer · AI Engineer · Building Quanverse
 
-I'm a developer from India who loves turning ideas into **real, scalable products**.
+I build **AI-powered products, scalable systems, and things that solve real problems.**
 
-Currently, I'm building **[Quanverse](https://quanverse.tech/)** — an AI-powered examination platform designed to make assessment creation, evaluation, and academic workflows smarter.
+Currently building **[Quanverse](https://quanverse.tech/)** — an AI-powered examination platform transforming how assessments are created, managed, and evaluated.
 
 > **Build fast. Learn constantly. Ship things that matter.**
 
+<p align="left">
+  <a href="https://quanverse.tech/">
+    <img src="https://img.shields.io/badge/Quanverse-Visit%20Website-6366f1?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sathya-narayanan-k-4922ab396/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Sathya00005">
+    <img src="https://img.shields.io/badge/GitHub-Sathya00005-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
-## 🚀 What I'm Building
-
-### 🧠 Quanverse
+## 🧠 Currently Building — Quanverse
 
 **AI-powered examination infrastructure for modern education.**
 
-Quanverse brings together:
+Quanverse combines AI, document understanding, question banks, automated evaluation, and academic analytics into one platform.
 
-* 🤖 AI-powered question & paper generation
-* 📚 Curriculum and question-bank curation
-* 📝 Automated answer & rubric generation
-* ✍️ AI-powered student evaluation
-* 📊 Intelligent academic insights
-* 🔍 OCR & document understanding
-* ⚡ Scalable asynchronous AI workflows
+### What I'm building
 
-🌐 **[quanverse.tech](https://quanverse.tech/)**
+* 🤖 **AI Question & Paper Generation**
+* 📚 **Curriculum & Question-Bank Curation**
+* 📝 **AI Key Answer & Rubric Generation**
+* ✍️ **Automated Student Evaluation**
+* 📊 **AI-Powered Academic Insights**
+* 🔍 **OCR & Document Understanding**
+* ⚡ **Asynchronous AI Processing Pipelines**
+* 🏗️ **Scalable Examination Infrastructure**
+
+🌐 **[Explore Quanverse →](https://quanverse.tech/)**
 
 ---
 
-## 🛠️ Tech I Work With
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -38,41 +51,45 @@ Quanverse brings together:
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css" />
 </p>
 
-### Backend & Data
+### Backend & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis,docker,nginx,linux" />
 </p>
 
-### AI / Engineering
+### AI & Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
 </p>
 
-**AI & LLM:** NVIDIA AI · Nemotron · LangChain · OCR · Vision AI · Embeddings
+**AI / LLM:** NVIDIA AI · Nemotron · LangChain · LLM Applications · Embeddings · Vision AI · OCR
 
 **Architecture:** REST APIs · Async Processing · Redis Queues · MongoDB · Docker · Nginx
 
 ---
 
-## 💡 What I'm Interested In
+## 🔬 What I'm Interested In
 
 ```text
-AI Engineering
-    ↓
-LLM Applications
-    ↓
-Scalable Backend Systems
-    ↓
-Developer Tools
-    ↓
-EdTech
-    ↓
-Building Products from 0 → 1
+        Artificial Intelligence
+                 ↓
+        LLM Applications
+                 ↓
+      Intelligent Automation
+                 ↓
+      Scalable Backend Systems
+                 ↓
+       Developer Experience
+                 ↓
+             EdTech
+                 ↓
+        Products that scale 🚀
 ```
 
-I'm particularly interested in the intersection of **AI + software engineering + education**.
+I'm particularly interested in the intersection of:
+
+**AI × Software Engineering × Education**
 
 ---
 
@@ -80,8 +97,8 @@ I'm particularly interested in the intersection of **AI + software engineering +
 
 * 🧠 Advanced LLM application architecture
 * ⚡ High-concurrency AI systems
-* 🏗️ Distributed & scalable backend architecture
-* 🔬 AI evaluation and reliability
+* 🏗️ Distributed systems & scalable architecture
+* 🔬 AI evaluation, reliability & observability
 * 🎨 Advanced React & TypeScript
 * ☁️ Production infrastructure & DevOps
 
@@ -91,19 +108,19 @@ I'm particularly interested in the intersection of **AI + software engineering +
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sathya00005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathya00005&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathya00005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 What I Like Building
+## 🚀 How I Build
 
 ```text
-Ideas
+Idea
   ↓
 Prototype
   ↓
@@ -111,39 +128,49 @@ Engineering
   ↓
 AI Integration
   ↓
+Testing
+  ↓
 Production
   ↓
-Users
+Real Users
   ↓
-Iterate 🚀
+Iterate
+  ↓
+Scale 🚀
 ```
 
-I enjoy taking products from an idea on a whiteboard to something people can actually use.
+I enjoy taking products from **0 → 1** and turning rough ideas into systems that people can actually use.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in meeting people working on:
+I'm always interested in connecting with people working on:
 
 **AI · SaaS · EdTech · Developer Tools · Startups · Open Source**
 
-📫 **Reach me:** [LinkedIn](YOUR_LINKEDIN_URL)
-
-🌐 **Website:** [quanverse.tech](https://quanverse.tech/)
-
-💻 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sathya-narayanan-k-4922ab396/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sathya%20Narayanan%20K-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Sathya00005">
+    <img src="https://img.shields.io/badge/GitHub-Sathya00005-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://quanverse.tech/">
+    <img src="https://img.shields.io/badge/Website-Quanverse-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ A Little About Me
 
 * 🇮🇳 Building from India
-* 💻 I enjoy both frontend and backend engineering
-* 🤖 Currently deep into AI-powered applications
+* 💻 Full-stack developer who enjoys both frontend and backend
+* 🤖 Deeply interested in AI-powered applications
 * 🚀 Building Quanverse from the ground up
 * 🧩 I enjoy solving problems that initially look impossible
-* ☕ Powered by curiosity, code, and probably too much debugging
+* ☕ Debugging is just another form of problem solving
 
 ---
 
