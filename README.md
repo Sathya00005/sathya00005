@@ -90,7 +90,7 @@ I'm particularly interested in the intersection of **AI + software engineering +
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathya00005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
